@@ -60,3 +60,5 @@ document.getElementById("increase").onclick = function() {
     document.getElementById("count").innerHTML = count;
 
 };
+
+// is it updated
